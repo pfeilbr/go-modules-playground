@@ -5,6 +5,7 @@ learn using [golang modules](https://blog.golang.org/using-go-modules)
 ## Resources
 
 * <https://blog.golang.org/using-go-modules>
+* [golang/go/wiki/Modules](https://github.com/golang/go/wiki/Modules)
 
 ## Session
 
